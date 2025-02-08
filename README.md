@@ -52,7 +52,7 @@ The project provides key insights into air quality patterns:
 - **Clean Air Areas**: A significant portion of the data contains AQI readings that indicate clean air (AQI ≤ 5).
 - **AQI Distribution**: Analyzing AQI distribution by state and county can inform public health campaigns and air quality improvement measures.
 
-## Key Features
+## Project Highlights
 
 - **Data Loading & Cleaning**: Efficiently loads and cleans large datasets using pandas and NumPy.
 - **Statistical Analysis**: Computes key summary statistics such as mean, median, max, and standard deviation for AQI values.

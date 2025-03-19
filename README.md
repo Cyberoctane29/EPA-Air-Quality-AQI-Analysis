@@ -69,6 +69,13 @@ The project provides key insights into air quality patterns:
 
 ## Future Work
 
+- While this analysis provided an overall view of AQI, future studies can focus on specific pollutants such as nitrogen dioxide, sulfur dioxide, and ozone to better understand their individual impacts on air quality. In this study, a specialized analysis was conducted for carbon monoxide, offering deeper insights into its trends and influencing factors.
+  
+As a next step, a focused analysis on carbon monoxide-specific AQI was conducted to gain deeper insights into its trends and contributing factors. You can explore this analysis here:
+
+ - [GitHub](https://github.com/Cyberoctane29/EPA-Carbon-Monoxide-AQI-Analysis): https://github.com/Cyberoctane29/EPA-Carbon-Monoxide-AQI-Analysis
+ - [Kaggle](https://www.kaggle.com/code/saswatsethda/epa-carbon-monoxide-aqi-analysis): https://www.kaggle.com/code/saswatsethda/epa-carbon-monoxide-aqi-analysis
+
 - **Predictive Models**: Explore predictive models to forecast AQI based on historical data and environmental factors.
 - **Data Expansion**: Incorporate additional datasets with environmental parameters such as temperature, traffic density, and industrial activity to improve the analysis.
 - **Visualization**: Add interactive visualizations to better understand AQI distribution and trends across states and counties.

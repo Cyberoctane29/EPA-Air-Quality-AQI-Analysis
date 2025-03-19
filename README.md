@@ -3,7 +3,8 @@
 This project analyzes air quality data collected by the U.S. Environmental Protection Agency (EPA) to assess air pollution levels across different states and counties. The analysis leverages Python libraries such as pandas, NumPy, and statistics to clean, manipulate, and analyze large datasets efficiently. The primary goal is to extract meaningful insights from the AQI (Air Quality Index) data, allowing for improved decision-making regarding public health and environmental policies.
 
 Additionally, a deeper analysis of AQI based on carbon monoxide levels has been conducted in a dedicated project:
-EPA Carbon Monoxide AQI Analysis
+EPA Carbon Monoxide AQI Analysis:
+
 🔗 [Github](https://github.com/Cyberoctane29/EPA-Carbon-Monoxide-AQI-Analysis) : https://github.com/Cyberoctane29/EPA-Carbon-Monoxide-AQI-Analysis
 
 🔗 [Kaggle](https://www.kaggle.com/code/saswatsethda/epa-carbon-monoxide-aqi-analysis) : https://www.kaggle.com/code/saswatsethda/epa-carbon-monoxide-aqi-analysis
